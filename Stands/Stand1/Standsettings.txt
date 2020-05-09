@@ -1,1 +1,1 @@
-{"name":"Stand02","age":now,"class":"mca"}
+{"name":"Stand01","age":22,"class":"mca"}
