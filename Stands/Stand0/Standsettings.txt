@@ -1,1 +1,1 @@
-{"name":"Stand01","age":22,"class":"mca"}
+{"name":"VizolutionTest1","website":"www.vizolution.nl","phone":"+316telefoon","email":"info@f.nl","type":0}
