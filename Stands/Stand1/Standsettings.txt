@@ -1,0 +1,1 @@
+{"name":"Stand02","age":22,"class":"mca"}
